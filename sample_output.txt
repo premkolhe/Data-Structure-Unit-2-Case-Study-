@@ -1,0 +1,7 @@
+     Asha      Ben   Carlos    Divya
+ Asha    0        1        0        1
+  Ben    1        0        1        0
+Carlos    0        1        0        1
+Divya    1        0        1        0
+
+Asha and Ben are friends.
